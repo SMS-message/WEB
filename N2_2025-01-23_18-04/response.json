@@ -1,0 +1,703 @@
+{
+  "response": {
+    "GeoObjectCollection": {
+      "metaDataProperty": {
+        "GeocoderResponseMetaData": {
+          "request": "Петровка, 38",
+          "results": "10",
+          "found": "10"
+        }
+      },
+      "featureMember": [
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "exact",
+                "text": "Россия, Москва, улица Петровка, 38с1",
+                "kind": "house",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Москва, улица Петровка, 38с1",
+                  "postal_code": "127006",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Москва"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Москва"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "улица Петровка"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "38с1"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Москва, улица Петровка, 38с1",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Москва",
+                      "Locality": {
+                        "LocalityName": "Москва",
+                        "Thoroughfare": {
+                          "ThoroughfareName": "улица Петровка",
+                          "Premise": {
+                            "PremiseNumber": "38с1",
+                            "PostalCode": {
+                              "PostalCodeNumber": "127006"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "улица Петровка, 38с1",
+            "description": "Москва, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "37.608877 55.767063",
+                "upperCorner": "37.617087 55.771692"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1NjcyOTQ5NBI-0KDQvtGB0YHQuNGPLCDQnNC-0YHQutCy0LAsINGD0LvQuNGG0LAg0J_QtdGC0YDQvtCy0LrQsCwgMzjRgTEiCg2ycxZCFdgTX0I,",
+            "Point": {
+              "pos": "37.612982 55.769378"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Воронежская область, Павловский район, село Петровка",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Воронежская область, Павловский район, село Петровка",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Воронежская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Павловский район"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Петровское сельское поселение"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "село Петровка"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Воронежская область, Павловский район, село Петровка",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Воронежская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Павловский район",
+                        "Locality": {
+                          "LocalityName": "село Петровка"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "село Петровка",
+            "description": "Павловский район, Воронежская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "40.244552 50.50967",
+                "upperCorner": "40.294013 50.544995"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzA0Nzc1MBJv0KDQvtGB0YHQuNGPLCDQktC-0YDQvtC90LXQttGB0LrQsNGPINC-0LHQu9Cw0YHRgtGMLCDQn9Cw0LLQu9C-0LLRgdC60LjQuSDRgNCw0LnQvtC9LCDRgdC10LvQviDQn9C10YLRgNC-0LLQutCwIgoNkQEhQhWbFUpC",
+            "Point": {
+              "pos": "40.251532 50.521102"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Кыргызстан, Чуйская область, село Петровка",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "KG",
+                  "formatted": "Кыргызстан, Чуйская область, село Петровка",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Кыргызстан"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Чуйская область"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "село Петровка"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Кыргызстан, Чуйская область, село Петровка",
+                    "CountryNameCode": "KG",
+                    "CountryName": "Кыргызстан",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Чуйская область",
+                      "Locality": {
+                        "LocalityName": "село Петровка"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "село Петровка",
+            "description": "Чуйская область, Кыргызстан",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "73.980522 42.817596",
+                "upperCorner": "74.078294 42.863362"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgoxNTA4NTU3Mzg5EkbQmtGL0YDQs9GL0LfRgdGC0LDQvSwg0KfSr9C5INC-0LHQu9GD0YHRgywg0J_QtdGC0YDQvtCy0LrQsCDQsNC50YvQu9GLIgoNZgqUQhVRWytC",
+            "Point": {
+              "pos": "74.020308 42.839178"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "exact",
+                "text": "Россия, Тверская область, Кашинский муниципальный округ, деревня Петровка, 38",
+                "kind": "house",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Тверская область, Кашинский муниципальный округ, деревня Петровка, 38",
+                  "postal_code": "171640",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Тверская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Кашинский муниципальный округ"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "деревня Петровка"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "38"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Тверская область, Кашинский муниципальный округ, деревня Петровка, 38",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Тверская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Кашинский муниципальный округ",
+                        "Locality": {
+                          "LocalityName": "деревня Петровка",
+                          "Premise": {
+                            "PremiseNumber": "38",
+                            "PostalCode": {
+                              "PostalCodeNumber": "171640"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "деревня Петровка, 38",
+            "description": "Кашинский муниципальный округ, Тверская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "37.588215 57.337698",
+                "upperCorner": "37.596426 57.342138"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgo1NzMyNDkzMzM3EowB0KDQvtGB0YHQuNGPLCDQotCy0LXRgNGB0LrQsNGPINC-0LHQu9Cw0YHRgtGMLCDQmtCw0YjQuNC90YHQutC40Lkg0LzRg9C90LjRhtC40L_QsNC70YzQvdGL0Lkg0L7QutGA0YPQsywg0LTQtdGA0LXQstC90Y8g0J_QtdGC0YDQvtCy0LrQsCwgMzgiCg2IXhZCFRRcZUI,",
+            "Point": {
+              "pos": "37.592321 57.339918"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Приморский край, городской округ Большой Камень, село Петровка",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Приморский край, городской округ Большой Камень, село Петровка",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Дальневосточный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Приморский край"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Большой Камень"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "село Петровка"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Приморский край, городской округ Большой Камень, село Петровка",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Приморский край",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Большой Камень",
+                        "Locality": {
+                          "LocalityName": "село Петровка"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "село Петровка",
+            "description": "городской округ Большой Камень, Приморский край, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "132.374492 43.126558",
+                "upperCorner": "132.407657 43.161461"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzA2Nzg4MRKBAdCg0L7RgdGB0LjRjywg0J_RgNC40LzQvtGA0YHQutC40Lkg0LrRgNCw0LksINCz0L7RgNC-0LTRgdC60L7QuSDQvtC60YDRg9CzINCR0L7Qu9GM0YjQvtC5INCa0LDQvNC10L3RjCwg0YHQtdC70L4g0J_QtdGC0YDQvtCy0LrQsCIKDfxjBEMVK5gsQg,,",
+            "Point": {
+              "pos": "132.390562 43.148603"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "number",
+                "text": "Россия, Тамбовская область, Моршанский муниципальный округ, деревня Петровка, 38А",
+                "kind": "house",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Тамбовская область, Моршанский муниципальный округ, деревня Петровка, 38А",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Тамбовская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Моршанский муниципальный округ"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "деревня Петровка"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "38А"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Тамбовская область, Моршанский муниципальный округ, деревня Петровка, 38А",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Тамбовская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Моршанский муниципальный округ",
+                        "Locality": {
+                          "LocalityName": "деревня Петровка",
+                          "Premise": {
+                            "PremiseNumber": "38А"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "деревня Петровка, 38А",
+            "description": "Моршанский муниципальный округ, Тамбовская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "41.425594 53.518524",
+                "upperCorner": "41.433804 53.523417"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgozODExMTkwOTAwEpQB0KDQvtGB0YHQuNGPLCDQotCw0LzQsdC-0LLRgdC60LDRjyDQvtCx0LvQsNGB0YLRjCwg0JzQvtGA0YjQsNC90YHQutC40Lkg0LzRg9C90LjRhtC40L_QsNC70YzQvdGL0Lkg0L7QutGA0YPQsywg0LTQtdGA0LXQstC90Y8g0J_QtdGC0YDQvtCy0LrQsCwgMzjQkCIKDQO4JUIVeRVWQg,,",
+            "Point": {
+              "pos": "41.429699 53.52097"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Республика Крым, Красногвардейский район, село Петровка",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Республика Крым, Красногвардейский район, село Петровка",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Южный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Республика Крым"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Красногвардейский район"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Петровское сельское поселение"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "село Петровка"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Республика Крым, Красногвардейский район, село Петровка",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Республика Крым",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Красногвардейский район",
+                        "Locality": {
+                          "LocalityName": "село Петровка"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "село Петровка",
+            "description": "Красногвардейский район, Республика Крым, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "34.273719 45.486821",
+                "upperCorner": "34.298702 45.51408"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgoxNDQ0NDI2OTcxEnXQoNC-0YHRgdC40Y8sINCg0LXRgdC_0YPQsdC70LjQutCwINCa0YDRi9C8LCDQmtGA0LDRgdC90L7Qs9Cy0LDRgNC00LXQudGB0LrQuNC5INGA0LDQudC-0L0sINGB0LXQu9C-INCf0LXRgtGA0L7QstC60LAiCg1FIglCFXf8NUI,",
+            "Point": {
+              "pos": "34.283466 45.496545"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Казахстан, Карагандинская область, Бухар-Жырауский район, село Петровка",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "KZ",
+                  "formatted": "Казахстан, Карагандинская область, Бухар-Жырауский район, село Петровка",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Казахстан"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Карагандинская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Бухар-Жырауский район"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "село Петровка"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Казахстан, Карагандинская область, Бухар-Жырауский район, село Петровка",
+                    "CountryNameCode": "KZ",
+                    "CountryName": "Казахстан",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Карагандинская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Бухар-Жырауский район",
+                        "Locality": {
+                          "LocalityName": "село Петровка"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "ReferencesMetaData": {
+                "references": [
+                  {
+                    "id": "354000000",
+                    "scope": "kz:kato"
+                  }
+                ]
+              }
+            },
+            "name": "село Петровка",
+            "description": "Бухар-Жырауский район, Карагандинская область, Казахстан",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "73.483133 50.082045",
+                "upperCorner": "73.521159 50.108737"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzE2Nzg3MxJ00prQsNC30LDSm9GB0YLQsNC9LCDSmtCw0YDQsNKT0LDQvdC00Ysg0L7QsdC70YvRgdGLLCDQkdKx0pvQsNGAINC20YvRgNCw0YMg0LDRg9C00LDQvdGLLCDQn9C10YLRgNC-0LLQutCwINCw0YPRi9C70YsiCg14ApNCFQRhSEI,",
+            "Point": {
+              "pos": "73.504819 50.094742"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Омский район, село Петровка",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Омский район, село Петровка",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Сибирский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Омская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Омский район"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Петровское сельское поселение"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "село Петровка"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Омский район, село Петровка",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Омская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Омский район",
+                        "Locality": {
+                          "LocalityName": "село Петровка"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "село Петровка",
+            "description": "Омский район, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "73.521941 55.249551",
+                "upperCorner": "73.562625 55.267671"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzExNDY2MBJA0KDQvtGB0YHQuNGPLCDQntC80YHQutC40Lkg0YDQsNC50L7QvSwg0YHQtdC70L4g0J_QtdGC0YDQvtCy0LrQsCIKDZ4Wk0IVxAhdQg,,",
+            "Point": {
+              "pos": "73.544174 55.258561"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Республика Саха (Якутия), Мегино-Кангаласский улус, Харанский наслег, село Петровка",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Республика Саха (Якутия), Мегино-Кангаласский улус, Харанский наслег, село Петровка",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Дальневосточный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Республика Саха (Якутия)"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Мегино-Кангаласский улус"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Харанский наслег"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "село Петровка"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Республика Саха (Якутия), Мегино-Кангаласский улус, Харанский наслег, село Петровка",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Республика Саха (Якутия)",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Мегино-Кангаласский улус",
+                        "Locality": {
+                          "LocalityName": "село Петровка"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "село Петровка",
+            "description": "Харанский наслег, Мегино-Кангаласский улус, Республика Саха (Якутия), Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "130.24685 61.721251",
+                "upperCorner": "130.288927 61.735394"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzA2NjkzNRKmAdCg0L7RgdGB0LjRjywg0KDQtdGB0L_Rg9Cx0LvQuNC60LAg0KHQsNGF0LAgKNCv0LrRg9GC0LjRjyksINCc0LXQs9C40L3Qvi3QmtCw0L3Qs9Cw0LvQsNGB0YHQutC40Lkg0YPQu9GD0YEsINCl0LDRgNCw0L3RgdC60LjQuSDQvdCw0YHQu9C10LMsINGB0LXQu9C-INCf0LXRgtGA0L7QstC60LAiCg39RAJDFX3sdkI,",
+            "Point": {
+              "pos": "130.269487 61.730946"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

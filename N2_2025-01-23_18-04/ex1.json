@@ -1,0 +1,700 @@
+{
+  "response": {
+    "GeoObjectCollection": {
+      "metaDataProperty": {
+        "GeocoderResponseMetaData": {
+          "request": "Магадан",
+          "results": "10",
+          "found": "10"
+        }
+      },
+      "featureMember": [
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Магадан",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Магадан",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Дальневосточный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Магаданская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Магадан"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Магадан"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Магадан",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Магаданская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Магадан",
+                        "Locality": {
+                          "LocalityName": "Магадан"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Магадан",
+            "description": "Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "150.603492 59.472429",
+                "upperCorner": "151.036174 59.743549"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzA2Nzc0MRIc0KDQvtGB0YHQuNGPLCDQnNCw0LPQsNC00LDQvSIKDQDPFkMVuEJuQg,,",
+            "Point": {
+              "pos": "150.808586 59.565155"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Ставропольский край, Георгиевск, квартал Магадан",
+                "kind": "district",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Ставропольский край, Георгиевск, квартал Магадан",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Северо-Кавказский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Ставропольский край"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Георгиевский муниципальный округ"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Георгиевск"
+                    },
+                    {
+                      "kind": "district",
+                      "name": "квартал Магадан"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Ставропольский край, Георгиевск, квартал Магадан",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Ставропольский край",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Георгиевский муниципальный округ",
+                        "Locality": {
+                          "LocalityName": "Георгиевск",
+                          "DependentLocality": {
+                            "DependentLocalityName": "квартал Магадан"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "квартал Магадан",
+            "description": "Георгиевск, Ставропольский край, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "43.448986 44.128312",
+                "upperCorner": "43.455535 44.132931"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgoxNTA4NTc4MTc1EmjQoNC-0YHRgdC40Y8sINCh0YLQsNCy0YDQvtC_0L7Qu9GM0YHQutC40Lkg0LrRgNCw0LksINCT0LXQvtGA0LPQuNC10LLRgdC6LCDQutCy0LDRgNGC0LDQuyDQnNCw0LPQsNC00LDQvSIKDfHOLUIV5IUwQg,,",
+            "Point": {
+              "pos": "43.452094 44.130751"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Магадан, СОТ Магадан",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Магадан, СОТ Магадан",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Дальневосточный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Магаданская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Магадан"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Магадан"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "СОТ Магадан"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Магадан, СОТ Магадан",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Магаданская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Магадан",
+                        "Locality": {
+                          "LocalityName": "Магадан",
+                          "DependentLocality": {
+                            "DependentLocalityName": "СОТ Магадан"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "СОТ Магадан",
+            "description": "Магадан, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "150.84521 59.558632",
+                "upperCorner": "150.862314 59.569764"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgoxNTkwNTI2NjU1EjPQoNC-0YHRgdC40Y8sINCc0LDQs9Cw0LTQsNC9LCDQodCe0KIg0JzQsNCz0LDQtNCw0L0iCg192hZDFWhCbkI,",
+            "Point": {
+              "pos": "150.853466 59.56485"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Испания, автономное сообщество Астурия, Астурьяс, Грандас де Салиме, Магадан",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "ES",
+                  "formatted": "Испания, автономное сообщество Астурия, Астурьяс, Грандас де Салиме, Магадан",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Испания"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "автономное сообщество Астурия"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Астурьяс"
+                    },
+                    {
+                      "kind": "district",
+                      "name": "Грандас де Салиме"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Магадан"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Испания, автономное сообщество Астурия, Астурьяс, Грандас де Салиме, Магадан",
+                    "CountryNameCode": "ES",
+                    "CountryName": "Испания",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "автономное сообщество Астурия",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Астурьяс",
+                        "Locality": {
+                          "DependentLocality": {
+                            "DependentLocalityName": "Грандас де Салиме",
+                            "DependentLocality": {
+                              "DependentLocalityName": "Магадан"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Магадан",
+            "description": "Грандас де Салиме, Астурьяс, автономное сообщество Астурия, Испания",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "-6.993331 43.186188",
+                "upperCorner": "-6.86153 43.282556"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgoyMjMzODI5MDA4Ek9Fc3Bhw7FhLCBDb211bmlkYWQgQXV0w7Nub21hIGRlIEFzdHVyaWFzLCBBc3R1cmlhcywgR3JhbmRhcyBkZSBTYWxpbWUsIE1hZ2Fkw6FuIgoNgq3dwBUE8CxC",
+            "Point": {
+              "pos": "-6.92743 43.234391"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, городской округ Магадан, аэропорт Магадан (Сокол) имени В.С. Высоцкого",
+                "kind": "airport",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, городской округ Магадан, аэропорт Магадан (Сокол) имени В.С. Высоцкого",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Дальневосточный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Магаданская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Магадан"
+                    },
+                    {
+                      "kind": "airport",
+                      "name": "аэропорт Магадан (Сокол) имени В.С. Высоцкого"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, городской округ Магадан, аэропорт Магадан (Сокол) имени В.С. Высоцкого",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Магаданская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Магадан",
+                        "Locality": {
+                          "DependentLocality": {
+                            "DependentLocalityName": "аэропорт Магадан (Сокол) имени В.С. Высоцкого"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "аэропорт Магадан (Сокол) имени В.С. Высоцкого",
+            "description": "городской округ Магадан, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "150.671359 59.906688",
+                "upperCorner": "150.764874 59.915485"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgoxNDg5NTkyNTMwEo0B0KDQvtGB0YHQuNGPLCDQs9C-0YDQvtC00YHQutC-0Lkg0L7QutGA0YPQsyDQnNCw0LPQsNC00LDQvSwg0LDRjdGA0L7Qv9C-0YDRgiDQnNCw0LPQsNC00LDQvSAo0KHQvtC60L7Quykg0LjQvNC10L3QuCDQki7QoS4g0JLRi9GB0L7RhtC60L7Qs9C-IgoNcLgWQxWcqG9C",
+            "Point": {
+              "pos": "150.720452 59.91466"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Воронеж, микрорайон Магадан",
+                "kind": "other",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Воронеж, микрорайон Магадан",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Воронежская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Воронеж"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Воронеж"
+                    },
+                    {
+                      "kind": "other",
+                      "name": "микрорайон Магадан"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Воронеж, микрорайон Магадан",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Воронежская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Воронеж",
+                        "Locality": {
+                          "LocalityName": "Воронеж",
+                          "Premise": {
+                            "PremiseName": "микрорайон Магадан"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "микрорайон Магадан",
+            "description": "Воронеж, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "39.13683 51.644665",
+                "upperCorner": "39.152775 51.657819"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgoyMTg4OTA5MjA0EkHQoNC-0YHRgdC40Y8sINCS0L7RgNC-0L3QtdC2LCDQvNC40LrRgNC-0YDQsNC50L7QvSDQnNCw0LPQsNC00LDQvSIKDR2THEIVRplOQg,,",
+            "Point": {
+              "pos": "39.143666 51.649678"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Тула, квартал Магадан",
+                "kind": "other",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Тула, квартал Магадан",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Тульская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Тула"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Тула"
+                    },
+                    {
+                      "kind": "other",
+                      "name": "квартал Магадан"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Тула, квартал Магадан",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Тульская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Тула",
+                        "Locality": {
+                          "LocalityName": "Тула",
+                          "Premise": {
+                            "PremiseName": "квартал Магадан"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "квартал Магадан",
+            "description": "Тула, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "37.531568 54.191094",
+                "upperCorner": "37.544387 54.201776"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgo0MDgzNjI4Nzk1EjXQoNC-0YHRgdC40Y8sINCi0YPQu9CwLCDQutCy0LDRgNGC0LDQuyDQnNCw0LPQsNC00LDQvSIKDSsmFkIV6MhYQg,,",
+            "Point": {
+              "pos": "37.537272 54.196198"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, городской округ Магадан, аэродром Магадан-13",
+                "kind": "airport",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, городской округ Магадан, аэродром Магадан-13",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Дальневосточный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Магаданская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Магадан"
+                    },
+                    {
+                      "kind": "airport",
+                      "name": "аэродром Магадан-13"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, городской округ Магадан, аэродром Магадан-13",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Магаданская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Магадан",
+                        "Locality": {
+                          "DependentLocality": {
+                            "DependentLocalityName": "аэродром Магадан-13"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "аэродром Магадан-13",
+            "description": "городской округ Магадан, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "150.913446 59.615947",
+                "upperCorner": "150.92737 59.630513"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgozMjgwNTI2MDQ3El7QoNC-0YHRgdC40Y8sINCz0L7RgNC-0LTRgdC60L7QuSDQvtC60YDRg9CzINCc0LDQs9Cw0LTQsNC9LCDQsNGN0YDQvtC00YDQvtC8INCc0LDQs9Cw0LTQsNC9LTEzIgoNLesWQxWQfm5C",
+            "Point": {
+              "pos": "150.918648 59.623593"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "street",
+                "text": "Кыргызстан, Бишкек, Магаданская улица",
+                "kind": "street",
+                "Address": {
+                  "country_code": "KG",
+                  "formatted": "Кыргызстан, Бишкек, Магаданская улица",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Кыргызстан"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "город республиканского подчинения Бишкек"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Бишкек"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Магаданская улица"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Кыргызстан, Бишкек, Магаданская улица",
+                    "CountryNameCode": "KG",
+                    "CountryName": "Кыргызстан",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "город республиканского подчинения Бишкек",
+                      "Locality": {
+                        "LocalityName": "Бишкек",
+                        "Thoroughfare": {
+                          "ThoroughfareName": "Магаданская улица"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Магаданская улица",
+            "description": "Бишкек, Кыргызстан",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "74.607968 42.889512",
+                "upperCorner": "74.608507 42.903342"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgoxNTE3NzM0MzMwEj_QmtGL0YDQs9GL0LfRgdGC0LDQvSwg0JHQuNGI0LrQtdC6LCDQnNCw0LPQsNC00LDQvSDQutOp0YfTqdGB0q8iCg10N5VCFayVK0I,",
+            "Point": {
+              "pos": "74.608309 42.896164"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Чукотский автономный округ, Анадырский район, посёлок Анадырь-1",
+                "kind": "district",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Чукотский автономный округ, Анадырский район, посёлок Анадырь-1",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Дальневосточный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Чукотский автономный округ"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Анадырский район"
+                    },
+                    {
+                      "kind": "district",
+                      "name": "посёлок Анадырь-1"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Чукотский автономный округ, Анадырский район, посёлок Анадырь-1",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Чукотский автономный округ",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Анадырский район",
+                        "Locality": {
+                          "DependentLocality": {
+                            "DependentLocalityName": "посёлок Анадырь-1"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "посёлок Анадырь-1",
+            "description": "Анадырский район, Чукотский автономный округ, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "177.86975 64.773027",
+                "upperCorner": "177.901658 64.782065"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzA2NDI4MxKCAdCg0L7RgdGB0LjRjywg0KfRg9C60L7RgtGB0LrQuNC5INCw0LLRgtC-0L3QvtC80L3Ri9C5INC-0LrRgNGD0LMsINCQ0L3QsNC00YvRgNGB0LrQuNC5INGA0LDQudC-0L0sINC_0L7RgdGR0LvQvtC6INCQ0L3QsNC00YvRgNGMLTEiCg3Y4jFDFdOOgUI,",
+            "Point": {
+              "pos": "177.886117 64.778953"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

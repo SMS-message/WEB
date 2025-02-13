@@ -1,0 +1,197 @@
+{
+  "response": {
+    "GeoObjectCollection": {
+      "metaDataProperty": {
+        "GeocoderResponseMetaData": {
+          "request": "аэропорт Внуково",
+          "results": "10",
+          "found": "3"
+        }
+      },
+      "featureMember": [
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Москва, Новомосковский административный округ, аэропорт Внуково имени А.Н. Туполева",
+                "kind": "airport",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Москва, Новомосковский административный округ, аэропорт Внуково имени А.Н. Туполева",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Москва"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Новомосковский административный округ"
+                    },
+                    {
+                      "kind": "airport",
+                      "name": "аэропорт Внуково имени А.Н. Туполева"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Москва, Новомосковский административный округ, аэропорт Внуково имени А.Н. Туполева",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Москва",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Новомосковский административный округ",
+                        "Locality": {
+                          "DependentLocality": {
+                            "DependentLocalityName": "аэропорт Внуково имени А.Н. Туполева"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "аэропорт Внуково имени А.Н. Туполева",
+            "description": "Новомосковский административный округ, Москва, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "37.229824 55.583093",
+                "upperCorner": "37.303818 55.61599"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgoxNTE5OTg4MzQzEqgB0KDQvtGB0YHQuNGPLCDQnNC-0YHQutCy0LAsINCd0L7QstC-0LzQvtGB0LrQvtCy0YHQutC40Lkg0LDQtNC80LjQvdC40YHRgtGA0LDRgtC40LLQvdGL0Lkg0L7QutGA0YPQsywg0LDRjdGA0L7Qv9C-0YDRgiDQktC90YPQutC-0LLQviDQuNC80LXQvdC4INCQLtCdLiDQotGD0L_QvtC70LXQstCwIgoNKiUVQhWUa15C",
+            "Point": {
+              "pos": "37.286292 55.605058"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Москва, Солнцевская линия, метро Аэропорт Внуково",
+                "kind": "metro",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Москва, Солнцевская линия, метро Аэропорт Внуково",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Москва"
+                    },
+                    {
+                      "kind": "route",
+                      "name": "Солнцевская линия"
+                    },
+                    {
+                      "kind": "metro",
+                      "name": "метро Аэропорт Внуково"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Москва, Солнцевская линия, метро Аэропорт Внуково",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Москва",
+                      "Locality": {}
+                    }
+                  }
+                }
+              }
+            },
+            "name": "метро Аэропорт Внуково",
+            "description": "Солнцевская линия, Москва, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "37.279473 55.602429",
+                "upperCorner": "37.295931 55.611745"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgo1MjczMjcwODk2EmnQoNC-0YHRgdC40Y8sINCc0L7RgdC60LLQsCwg0KHQvtC70L3RhtC10LLRgdC60LDRjyDQu9C40L3QuNGPLCDQvNC10YLRgNC-INCQ0Y3RgNC-0L_QvtGA0YIg0JLQvdGD0LrQvtCy0L4iCg2bJhVCFahtXkI,",
+            "Point": {
+              "pos": "37.287702 55.607087"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Киевское направление Московской железной дороги, платформа Аэропорт Внуково",
+                "kind": "railway_station",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Киевское направление Московской железной дороги, платформа Аэропорт Внуково",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "route",
+                      "name": "Киевское направление Московской железной дороги"
+                    },
+                    {
+                      "kind": "railway_station",
+                      "name": "платформа Аэропорт Внуково"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Киевское направление Московской железной дороги, платформа Аэропорт Внуково",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "Country": {
+                      "Locality": {}
+                    }
+                  }
+                }
+              }
+            },
+            "name": "платформа Аэропорт Внуково",
+            "description": "Киевское направление Московской железной дороги, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "37.279914 55.601111",
+                "upperCorner": "37.296371 55.610428"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgkxMDAwNzU2MzUSnAHQoNC-0YHRgdC40Y8sINCa0LjQtdCy0YHQutC-0LUg0L3QsNC_0YDQsNCy0LvQtdC90LjQtSDQnNC-0YHQutC-0LLRgdC60L7QuSDQttC10LvQtdC30L3QvtC5INC00L7RgNC-0LPQuCwg0L_Qu9Cw0YLRhNC-0YDQvNCwINCQ0Y3RgNC-0L_QvtGA0YIg0JLQvdGD0LrQvtCy0L4iCg0PJxVCFU5sXkI,",
+            "Point": {
+              "pos": "37.288142 55.60577"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
