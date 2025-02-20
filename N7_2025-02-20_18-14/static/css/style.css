@@ -1,4 +1,25 @@
 body, html {
     background: #121212;
     color: #FFFFFF;
+    font-family: open sans, monospace;
+}
+
+body {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+#btn {
+    width: 250px;
+    height: 50px;
+
+    color: #FFFFFF;
+    background: none;
+
+    border: solid 1px #FFFFFF;
+    border-radius: 10px;
+
+    font-size: 24px;
 }
