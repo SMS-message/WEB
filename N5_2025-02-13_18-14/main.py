@@ -37,7 +37,7 @@ def main() -> None:
     from PIL import Image
     from argparse import ArgumentParser
 
-    # !python main.py Москва
+    # !python notes.py Москва
 
     parser = ArgumentParser()
 

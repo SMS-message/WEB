@@ -1,0 +1,31 @@
+h1 {
+    font-family: Arial;
+}
+
+h2 {
+    font-family: Arial;
+}
+
+p {
+    padding: 10px 0 10px 0;
+    margin: 5px 0 5px 0;
+    font-family: Arial;
+    font-size: 32px;
+}
+
+p:nth-child(3) {}
+
+p:nth-child(3) {
+    background: #55DD55;
+    color: #006600;
+}
+
+p:nth-child(5) {
+    background: #DDDD55;
+    color: #666600;
+}
+
+p:nth-child(6) {
+    background: #DD5555;
+    color: #660000;
+}
