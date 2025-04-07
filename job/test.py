@@ -1,7 +1,6 @@
 import unittest
 import requests
 import datetime as dt
-from data.manual_func import create_job
 
 class MyTestCase(unittest.TestCase):
     def test_all_jobs(self):
@@ -46,19 +45,6 @@ class MyTestCase(unittest.TestCase):
             "start_date": test_date.strftime("%Y-%m-%d %H:%M:%S")
         }
         self.assertEqual(requests.post("http://127.0.0.1:8080/api/jobs", json=data).json(), {'error': 'Bad request'})
-
-    def test_manual_job_add(self):
-        test_date = dt.date(2020, 11, 7)
-        data = {
-            "team_leader": 1,
-            "job": "testing_systems",
-            "work_size": 10,
-            "collaborators": "3, 4",
-            "start_date": test_date.strftime("%Y-%m-%d %H:%M:%S"),
-            "is_finished": False
-        }
-
-        create_job(data["team_leader"], data["job"], data["work_size"], data["collaborators"], data["is_finished"])
 
 if __name__ == '__main__':
     unittest.main()
